@@ -133,9 +133,9 @@
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
-    <Reference Include="UnitySpy, Version=0.9.0.0, Culture=neutral, PublicKeyToken=a5fabbc78fde260d, processorArchitecture=MSIL">
+    <Reference Include="UnitySpy, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\unityspy-2\UnitySpy\bin\x64\Release\UnitySpy.dll</HintPath>
+      <HintPath>..\..\..\unityspy-2\UnitySpy\bin\x64\Debug\UnitySpy.dll</HintPath>
     </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
